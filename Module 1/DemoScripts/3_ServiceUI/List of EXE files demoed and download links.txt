@@ -1,0 +1,11 @@
+Git-2.51.0-64-bit.exe (https://git-scm.com/downloads)
+iview472_x64_setup.exe (https://www.irfanview.net/main_download_engl.htm)
+procexp.chm (https://learn.microsoft.com/en-us/sysinternals)
+procexp.exe (https://learn.microsoft.com/en-us/sysinternals)
+procexp64.exe (https://learn.microsoft.com/en-us/sysinternals)
+procmon.chm (https://learn.microsoft.com/en-us/sysinternals)
+PsExec.exe (https://learn.microsoft.com/en-us/sysinternals)
+PsExec64.exe (https://learn.microsoft.com/en-us/sysinternals)
+ServiceUI.exe https://learn.microsoft.com/en-us/intune/configmgr/mdt/
+whois.exe (https://learn.microsoft.com/en-us/sysinternals)
+whois64.exe (https://learn.microsoft.com/en-us/sysinternals)
